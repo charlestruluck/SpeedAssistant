@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9053" systemVersion="15A279b" minimumToolsVersion="Xcode 7.0">
+    <entity name="SpeedUnit" syncable="YES">
+        <attribute name="selectedSpeedUnit" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SpeedUnit" positionX="-63" positionY="-18" width="128" height="60"/>
+    </elements>
+</model>
